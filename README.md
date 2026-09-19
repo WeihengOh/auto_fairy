@@ -21,5 +21,5 @@ python game.py
 and tab into the King's Call window (MUST BE VISIBLE)
 
 ## License
-This project is licensed under the [Original License Name] - see the [LICENSE](LICENSE) file for details. 
-*Original code copyrighted by [Original Author Name]. Modifications copyrighted by [Your Name].*
+This project is licensed under the [Apache 2.0 License] - see the [LICENSE](LICENSE) file for details. 
+*Original code copyrighted by [paulonteri]. Modifications copyrighted by [Weiheng Oh].*
