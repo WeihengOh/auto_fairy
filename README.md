@@ -8,14 +8,14 @@ Modified for use in autorunning Pet Island collection in King's Call
 * changed images to fairies, auto-battle button, and exit rewards screen
 
 ## Installation
-Using command prompt, from downloaded folder, run:
+Using command prompt, from downloaded folder, run: \
 python -m venv  .venv \
 .venv\scripts\activate \
 pip install -r requirements.txt
 
 ## Usage
 Enter Pet Island before starting the script.
-to use the script, use command prompt and navigate to the downloaded folder. Then run:
+to use the script, use command prompt and navigate to the downloaded folder. Then run: \
 .venv\scripts\activate \
 python game.py \
 and tab into the King's Call window (MUST BE VISIBLE)
