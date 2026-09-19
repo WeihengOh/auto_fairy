@@ -1,4 +1,4 @@
-# Auto Fairy (Forked)
+# Auto Fairy
 
 This is a modified version of [play-game-with-computer-vision](https://github.com/paulonteri/play-game-with-computer-vision) originally created by [paulonteri].
 
