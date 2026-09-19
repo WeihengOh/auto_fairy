@@ -9,15 +9,15 @@ Modified for use in autorunning Pet Island collection in King's Call
 
 ## Installation
 Using command prompt, from downloaded folder, run:
-python -m venv  .venv
-.venv\scripts\activate
+python -m venv  .venv \
+.venv\scripts\activate \
 pip install -r requirements.txt
 
 ## Usage
 Enter Pet Island before starting the script.
 to use the script, use command prompt and navigate to the downloaded folder. Then run:
-.venv\scripts\activate
-python game.py
+.venv\scripts\activate \
+python game.py \
 and tab into the King's Call window (MUST BE VISIBLE)
 
 ## License
