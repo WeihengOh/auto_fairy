@@ -1,9 +1,11 @@
-# Project Name (Forked)
+# Auto Fairy (Forked)
 
 This is a modified version of [play-game-with-computer-vision](https://github.com/paulonteri/play-game-with-computer-vision) originally created by [paulonteri].
 
 ## What's Changed in This Version
-* modified for use in autorunning Pet Island collection in King's Call
+Modified for use in autorunning Pet Island collection in King's Call
+* added delays between clicks to allow for movement time
+* changed images to fairies, auto-battle button, and exit rewards screen
 
 ## Installation
 Using command prompt, from downloaded folder, run:
@@ -17,7 +19,6 @@ to use the script, use command prompt and navigate to the downloaded folder. The
 .venv\scripts\activate
 python game.py
 and tab into the King's Call window (MUST BE VISIBLE)
-
 
 ## License
 This project is licensed under the [Original License Name] - see the [LICENSE](LICENSE) file for details. 
